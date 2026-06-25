@@ -21,4 +21,4 @@ This project demonstrates SQL skills using MySQL with real-world analytics queri
 - DB Fiddle for query execution
 
 ### DB Fiddle Link
-https://dbfiddle.uk/p-ume0rT
+https://dbfiddle.uk/uSsg_Drl
